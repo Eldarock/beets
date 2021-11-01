@@ -23,6 +23,7 @@ from collections import OrderedDict
 
 import requests
 
+
 from beets import plugins
 from beets import importer
 from beets import ui
